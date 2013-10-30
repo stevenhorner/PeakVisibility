@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "Number": 485, "Name": "Mount Keen", "Classifica": "Ma,M,Mur", "Metres": 939.0, "Feet": 3081, "Grid Ref": "NO409869", "Xcoord": 340905, "Ycoord": 786927, "Latitude": 56.969751, "Longitude": -2.973622, "Viewable": 912.31 }, "geometry": { "type": "Point", "coordinates": [ -2.973619650225212, 56.969766129041467 ] } }
+]
+}
